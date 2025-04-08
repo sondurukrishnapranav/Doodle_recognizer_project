@@ -135,7 +135,7 @@ export default function Home({ participantName, setParticipantName, setPreviousP
 
   const handleGithub = () => {
     setTimeout(() => {
-      window.location.href = 'https://github.com/Kabeer786786/DoodleRecognizer';
+      window.location.href = 'https://github.com/sondurukrishnapranav/Doodle_recognizer_project';
     },);
   }
 
